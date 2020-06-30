@@ -83,7 +83,7 @@
             }
             #my-navbar {
                 overflow: hidden;
-                background-color: #333438;
+                background-color: #ffffff;
                 position: fixed; /* Set the navbar to fixed position */
                 top: 0; /* Position the navbar at the top of the page */
                 width: 100%; /* Full width */
@@ -96,8 +96,9 @@
                 display: block;
                 text-align: center;
                 padding: 14px 16px;
-                text-decoration: none;
                 font-weight: 700;
+                font-size: 30px;
+                margin-left: 15px;
             }
 
         }
@@ -106,12 +107,14 @@
 </head>
 <body>
     <div id="my-navbar">
-        <span>GEOPORTAL</span>
+        <span>G E O P O R T A L</span>
       </div>
 <nav id="maptools">
     <!--<div id="logobar">
     </div>-->
     <div id="menubar">
+    </div>
+    <div id="language-selector-root">
     </div>
     <div id="divider">
     </div>

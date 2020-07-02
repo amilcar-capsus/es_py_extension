@@ -102,12 +102,12 @@
             }
 
             .es-py-blue {
-                color: rgb(0, 74, 173);
+                color: rgb(0, 74, 173) !important;
             }
 
             .es-py-red {
-                color: #eb222a;
-                padding-left: 0px;
+                color: #eb222a !important;
+                padding-left: 0px !important;
             }
         }
     </style>
